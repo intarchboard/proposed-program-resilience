@@ -1,2 +1,2 @@
-# resiliency
-Materials for proposed IAB program on Internet resiliency
+# resilience
+Materials for proposed IAB program on Internet resilience
