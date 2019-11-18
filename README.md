@@ -33,7 +33,6 @@ resilience. For example, if one implementation dominates to the extent that bugs
 or vulnerabilities in that implementation could create significant effects, or
 if a small number of service providers are so widely used as to make them
 effectively too large to fail, even though failures are always possible. 
-
 Other patterns and practices similarly enhance or diminish Internet resilience.
 The <name> program provides a venue where these issues can be analysed.
 
@@ -43,7 +42,7 @@ IETF; should the program identify overlaps in its work with the charters of
 relevant IETF working groups, it will refer the work to those groups.
 
 Members of the program are drawn from the IAB and the community, and appointed
-by the IAB. Other individuals will may be invited to participate on specific
+by the IAB. Other individuals may be invited to participate on specific
 topics from time to time based on their expertise without needing to provide a
 long-term commitment.
 
