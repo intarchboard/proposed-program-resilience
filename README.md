@@ -19,7 +19,9 @@ A couple of possibilities:
 We're mostly interested in sense#2.
 
 Resilience is a desirable feature for Internet technologies and the deployed
-Internet.  However, there can be cases where implementations or deployments of
+Internet.  Many IETF technologies have been designed with
+resiliency as a core feature, often through a distributed architecture
+(e.g. BGP, DNS, SMTP). However, there can be cases where implementations or deployments of
 IETF-defined protocols create challenges to Internet resilience.  For example,
 if one implementation dominates to the extent that bugs or vulnerabilities in
 that implementation could create significant effects, or if a small number of
@@ -42,7 +44,7 @@ for currently active participants, but use of the closed list is expected to be
 the exception.
 
 Expected outputs from the program could include:
-- drafting of suggested IAB statements,
+- Drafting of suggested IAB statements,
 - Internet-drafts and/or RFCs that explore the technical aspects of cases where
   resilience could be improved,
 - BoFs or IETF area meeting presentations on specific challenges to Internet
