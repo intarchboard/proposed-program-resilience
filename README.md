@@ -19,7 +19,9 @@ A couple of possibilities:
 We're mostly interested in sense#2.
 
 Resilience is a desirable feature for Internet technologies, and for the
-deployed Internet as a whole. Indeed, the packet-switched networking
+deployed Internet as a whole. Many IETF technologies have been designed with
+resilience as a core feature, often through a distributed architecture
+(e.g. BGP, DNS, SMTP). Indeed, the packet-switched networking
 technologies on which the Internet is based were originally developed largely to
 be more resilient than existing circuit-switched networks. This resilience is
 the result of protocol design, implementation, and deployment choices.
@@ -51,8 +53,8 @@ for currently active participants, but use of the closed list is expected to be
 the exception.
 
 Expected outputs from the program could include:
-- IAB statements relevant to Internet resilience
-- Internet-drafts and/or RFCs that explore the technical aspects of cases where
+- Draft IAB statements relevant to Internet resilience
+- Internet-Drafts and/or RFCs that explore the technical aspects of cases where
   resilience could be improved,
 - BoFs or IETF area meeting presentations on specific challenges to Internet
   resillience.
