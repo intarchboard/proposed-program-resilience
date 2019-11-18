@@ -26,8 +26,8 @@ technologies on which the Internet is based were originally developed largely to
 be more resilient than existing circuit-switched networks. This resilience is
 the result of protocol design, implementation, and deployment choices.
 
-One fundamental pattern contributing to Internet resilience is diversity at all
-layers: for example, diversity of physical links, of peer networks, of paths
+One fundamental pattern contributing to Internet resilience is diversity: 
+for example, diversity of physical links, of peer networks, of paths
 through the network. Lack of diversity is a key challenge for Internet
 resilience. For example, if one implementation dominates to the extent that bugs
 or vulnerabilities in that implementation could create significant effects, or
