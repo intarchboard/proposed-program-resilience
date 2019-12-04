@@ -41,7 +41,7 @@ OPSAWG and DNSOP. It prefers work in scope for the IETF to be done within the
 IETF; should the program identify overlaps in its work with the charters of
 relevant IETF working groups, it will refer the work to those groups.
 
-Members of the program are drawn from the IAB and the community, and appointed
+Members of the program are drawn from the IAB and the rest of the community, and appointed
 by the IAB. Other individuals may be invited to participate on specific
 topics from time to time based on their expertise without needing to provide a
 long-term commitment.
