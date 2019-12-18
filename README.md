@@ -38,8 +38,8 @@ by the IAB. Other individuals may be invited to participate on specific
 topics from time to time based on their expertise without needing to provide a
 long-term commitment.
 
-Work is mainly expected to be carried out on the <name>@iab.org mailing list,
-which is open to any subscriber. The program will also maintain a closed list
+Work is mainly expected to be carried out on an IAB mailing list
+that will be open to any subscriber. The program will also maintain a closed list
 for currently active participants, but use of the closed list is expected to be
 the exception.
 
