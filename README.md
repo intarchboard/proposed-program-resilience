@@ -16,12 +16,12 @@ A couple of possibilities:
    deformation caused especially by compressive stress
 2. an ability to recover from or adjust easily to misfortune or change
 
-We're mostly interested in sense#2.
+This program is mostly interested in definition #2.
 
 Resilience is a desirable feature for Internet technologies, and for the
 deployed Internet as a whole. Many IETF technologies have been designed with
 resilience as a core feature, often through a distributed architecture
-(e.g. BGP, DNS, SMTP). Indeed, the packet-switched networking
+(e.g. TCP, BGP, DNS, SMTP). Indeed, the packet-switched networking
 technologies on which the Internet is based were originally developed largely to
 be more resilient than existing circuit-switched networks. This resilience is
 the result of protocol design, implementation, and deployment choices.
@@ -29,12 +29,13 @@ the result of protocol design, implementation, and deployment choices.
 One fundamental pattern contributing to Internet resilience is diversity: 
 for example, diversity of physical links, of peer networks, of paths
 through the network. Lack of diversity is a key challenge for Internet
-resilience. For example, if one implementation dominates to the extent that bugs
+resilience. For example, if one implementation dominates in deployment to the extent that bugs
 or vulnerabilities in that implementation could create significant effects, or
-if a small number of service providers are so widely used as to make them
-effectively too large to fail, even though failures are always possible. 
+if only a small number of service providers are so widely used that
+they effectively become "too big to fail", even though failures are always possible. 
 Other patterns and practices similarly enhance or diminish Internet resilience.
-The <name> program provides a venue where these issues can be analysed.
+The <name> program provides a venue where these issues can be analysed
+and documented.
 
 The program aims to complement work done within IETF working groups, for example
 OPSAWG and DNSOP. It prefers work in scope for the IETF to be done within the
