@@ -1,14 +1,5 @@
 
-# Initial drafty draft charter-like text for an IAB program on resilience
-
-## Naming bikeshed
-
-A couple of possibilities:
-
-- CHallenges for Internet Resilience Program (chirp)
-- IAB Resilient Internet Program (iab-rip)
-
-## Charter text
+# Draft charter text for an IAB program on CHallenges for Internet Resilience Program (chirp)
 
 [Definition of resilience](https://www.merriam-webster.com/dictionary/resilience):
 
@@ -60,7 +51,7 @@ Expected outputs from the program could include:
   resillience.
 
 The IAB intends to seek community feedback on this program charter in the
-coming months (but to get started in the meantime) with the expectation that
-the charter may be modified in the timeframe of IETF107/IETF108 based on
-feedback received.
+coming months (but may get started in the meantime) with the expectation that
+even if the prgramme starts operating, the charter may be further modified in 
+the timeframe of IETF107/IETF108 based on feedback received.
 
