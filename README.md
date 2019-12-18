@@ -1,5 +1,5 @@
 
-# Draft charter text for an IAB program on CHallenges for Internet Resilience Program (chirp)
+# Draft charter text for an IAB CHallenges for Internet Resilience Program (chirp)
 
 [Definition of resilience](https://www.merriam-webster.com/dictionary/resilience):
 
